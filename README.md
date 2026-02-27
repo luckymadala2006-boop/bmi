@@ -1,1 +1,12 @@
-A simple Body Mass Index (BMI) Calculator built using Python that calculates BMI based on user input and categorizes health status.
+# Python Voice Assistant
+
+This project is a simple voice assistant built using Python.
+It listens to user commands and performs tasks like:
+- Opening websites
+- Telling time
+- Searching Google
+
+## Technologies Used
+- Python
+- SpeechRecognition
+- pyttsx3
